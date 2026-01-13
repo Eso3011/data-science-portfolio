@@ -11,6 +11,7 @@ Collected and analyzed WHO news articles related to antimicrobial resistance usi
 
 ### House Price Prediction (Machine Learning)
 Built a regression model using Gradient Boosting to predict house prices and evaluated it with RMSE and R².
+📄 Project details: house-price-prediction.md
 
 ### Data Analysis (Excel & Python)
 Performed data cleaning, visualization, and exploratory data analysis on multiple datasets.
