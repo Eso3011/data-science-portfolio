@@ -31,4 +31,7 @@ Both models achieved 100% accuracy on the test dataset.
 - Classification modeling
 - Model evaluation
 - Confusion matrix interpretation
+## Kaggle Notebook
+View full notebook with code and visualizations here:  
+https://www.kaggle.com/code/esograce/iris-classification-codealpha-internship
 
