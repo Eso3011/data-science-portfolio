@@ -16,4 +16,8 @@ Built a regression model using Gradient Boosting to predict house prices and eva
 ### Data Analysis (Excel & Python)
 Performed data cleaning, visualization, and exploratory data analysis on multiple datasets.
 
+### Iris Flower Classification (Machine Learning)
+Built classification models using Logistic Regression and Random Forest to predict Iris species. Achieved 100% accuracy on the test set.
+Project details: iris-classification.md
+
 This repository serves as my growing technical portfolio.
